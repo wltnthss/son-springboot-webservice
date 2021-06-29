@@ -30,7 +30,7 @@ var main = {
         });
     },
     update : function () {
-        var date = {
+        var data = {
             title: $('#title').val(),
             content: $('#content').val()
         };
