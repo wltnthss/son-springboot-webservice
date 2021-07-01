@@ -4,6 +4,7 @@
 - AWS 인프라를 통한 자동화 배포
 - JUnit4 을 활용한 테스트 코드 작성
 - mustache 서버 템플릿 엔진을 통한 화면 구성
+- Ajax, JQuery를 통한 비동기식 통신 방식
 
 ## 개발환경
 - IDE : IntelliJ IDEA Community
@@ -13,3 +14,4 @@
 - Java8
 - Gradle
 - mustache
+- Ajax, Jquery
